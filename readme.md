@@ -15,3 +15,6 @@ J'aimerais avoir beaucoup de pratique que de théorie en programmation et avoir 
 
 ### Attente envers le programme
 Je trouve la logique de programmation intéressante et j'aimerais explorer les domaines qui touchent la programmation et qui seraient intéressantes.
+
+### Branche test
+J'aime écrire.
