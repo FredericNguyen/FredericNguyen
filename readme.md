@@ -11,7 +11,7 @@ Diplôme d'études secondaires au collège de Stanislas
 Études à la maison en programmation web (Javascript), apprentissage fait avec Visual Studio Code et Github.
 
 ### Attente envers le cours
-J'aimerais avoir beaucoup de pratique que de théorie en programmation et avoir des opportunités d'apprendre des languages couramment utilisées afin d'être habitué à lire de la documentation.
+J'aimerais avoir beaucoup de pratique que de théorie en programmation. J'ai l'habitude de prendre de l'avance alors j'aime bien faire des exercices supplémentaires qui demandent plus de réflexion.
 
 ### Attente envers le programme
 Je trouve la logique de programmation intéressante et j'aimerais explorer les domaines qui touchent la programmation et qui seraient intéressantes.
