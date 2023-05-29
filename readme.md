@@ -1,20 +1,9 @@
 # Frédéric Nguyen
 
-## Mes intérêts
-Lire, jouer aux jeux vidéos, cinéma, badminton
+## Welcome to my Github!
+Most projects here are ones I have accomplished for school or on my own time.
+To maximise my learning experience, I have realised them without help from any tutorial.
 
-### À l'école
-Diplôme d'études secondaires au collège de Stanislas </br>
-Études en Sciences pures et appliqués au collège de Maisonneuve (abandonnées)
+Feel free to message me!
+Email: fredericnguyen777@gmail.com
 
-### Expérience en programmation
-Études à la maison en programmation web (Javascript), apprentissage fait avec Visual Studio Code et Github.
-
-### Attente envers le cours
-J'aimerais avoir beaucoup de pratique que de théorie en programmation. J'ai l'habitude de prendre de l'avance alors j'aime bien faire des exercices supplémentaires qui demandent plus de réflexion.
-
-### Attente envers le programme
-Je trouve la logique de programmation intéressante et j'aimerais explorer les domaines qui touchent la programmation et qui seraient intéressantes.
-
-### Branche test
-J'aime écrire.
